@@ -6,7 +6,7 @@ Basically just like http://www.sha1-online.com/ does but using command line.
 # Installation
 
 First, you need to install npm. 
-do 
+Then clone this repo.
 
 `git clone git@github.com:mamaz/sha-1.git`
 
