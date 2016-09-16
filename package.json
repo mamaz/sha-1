@@ -1,5 +1,5 @@
 {
-  "name": "sha1-cmd",
+  "name": "sha-1",
   "version": "0.5.0",
   "description": "simple sha1 commmand line ",
   "main": "sha1.js",
@@ -9,7 +9,7 @@
     "sha1": "^1.1.1"
   },
   "bin": {
-   "sha1-cmd": "./sha1.js"
+   "sha-1": "./sha1.js"
   },
   "devDependencies": {},
   "scripts": {
