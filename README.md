@@ -3,7 +3,7 @@ Command line implementation of sha1 for a simple string.
 
 Basically just like http://www.sha1-online.com/ does but using command line.
 
-#Installation
+# Installation
 
 First, you need to install npm. 
 do 
@@ -14,9 +14,11 @@ then on the repo directory, run
 
 `npm install -g.`
 
-#Usage
+# Usage
 
-sha-1 <someString>
+sha-1 \<someString\>
 
+## Help
+sha-1 --help 
 
 MIT Licence
